@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using Force.Ddd;
 
-namespace Force.Tests.Ddd
+namespace Force.Tests.Ddd.ValueObjects
 {
     public class StringValueObject: ValueObject
     {

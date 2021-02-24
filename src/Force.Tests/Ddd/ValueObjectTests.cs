@@ -1,4 +1,5 @@
 using Force.Ddd;
+using Force.Tests.Ddd.ValueObjects;
 using Xunit;
 
 namespace Force.Tests.Ddd

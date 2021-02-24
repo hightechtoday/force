@@ -1,6 +1,6 @@
 using Force.Ddd;
 
-namespace Force.Tests.Ddd
+namespace Force.Tests.Ddd.ValueObjects
 {
     public class TestValueObject: ValueObject<string>
     {

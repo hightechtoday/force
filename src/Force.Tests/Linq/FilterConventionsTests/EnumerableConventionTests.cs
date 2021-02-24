@@ -4,7 +4,7 @@ using Force.Linq;
 using Force.Tests.Infrastructure.Context;
 using Xunit;
 
-namespace Force.Tests.Linq
+namespace Force.Tests.Linq.FilterConventionsTests
 {
     public class EnumerableConventionTests : DbContextFixtureTestsBase
     {
